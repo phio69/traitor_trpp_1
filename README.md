@@ -60,3 +60,5 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 - 09/03/21: [Hacker News thread](https://news.ycombinator.com/item?id=26224719)
 Изменение 1 из branch2
 Изменение 2 из branch2
+[branch2 4a15f47] Второе изменение из branch2
+ 1 file changed, 1 insertion(+)
