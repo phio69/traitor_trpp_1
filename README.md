@@ -62,3 +62,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 Изменение 2 из branch2
 [branch2 4a15f47] Второе изменение из branch2
  1 file changed, 1 insertion(+)
+Изменение 3 из branch2
